@@ -7,6 +7,9 @@ public class Message {
 		System.out.println("NOtre code ici");
 		System.out.println("NOtre code ici");
 		System.out.println("NOtre code ici");
+		System.out.println("NOtre code ici");
+		System.out.println("NOtre code ici");
+		System.out.println("NOtre code ici");
 	}
 
 }
